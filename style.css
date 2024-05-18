@@ -215,16 +215,29 @@
   }
 
   .delete-btn{
-    color: wheat;
-    font-size: 1rem;
-    padding: 0.3rem 1rem;
+    color: black;
+    font-size: .7rem;
+    padding: 0.3rem .3rem;
     border-radius: 0.3rem;
     background-color: rgb(218, 43, 43);
     border: none;
     position: absolute;
     right: 0.5rem;
     bottom: 0.5rem;
-    font-weight:500;
+    font-weight:bold;
     
+  }
+
+  .edit-btn {
+    color: black;
+    font-size: .7rem;
+    padding: 0.3rem .3rem;
+    border-radius: 0.3rem;
+    background-color: rgb(218, 43, 43);
+    border: none;
+    position: absolute;
+    right: 3.5rem;
+    bottom: 0.5rem;
+    font-weight:bold;
   }
 
