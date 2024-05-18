@@ -1,5 +1,4 @@
 // Retrieve todo from local storage or initialize an empty array
-
 let todo = JSON.parse(localStorage.getItem("todo")) || [];
 const todoInput = document.getElementById("todoInput");
 const todoList = document.getElementById("todoList");
@@ -41,8 +40,9 @@ function displayTasks() {
 
         <p id="todo-${index}" class="${
       item.disabled ? "disabled" : ""
-    }" onclick="editTask(${index})"> ${item.text} </p>
+    }"> ${item.text} </p>
 
+        <button class="edit-btn" onclick="editTask(${index})"> Edit </button>
         <button class="delete-btn" onclick="deleteTask(${index})"> Delete </button>
       </div>
     `;
