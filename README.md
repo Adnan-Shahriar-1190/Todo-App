@@ -1,9 +1,7 @@
-<p align="center"></p>
 
 # HopeBridge
 
-
-![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTezaw0GCKPxw2IDDgfAG_sejfT-yvh8ZCEwQ&s)
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTezaw0GCKPxw2IDDgfAG_sejfT-yvh8ZCEwQ&s" alt="Image Description" width="500" height="200" />
 
 ## Team Members:
 
